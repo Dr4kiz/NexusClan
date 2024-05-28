@@ -1,0 +1,17 @@
+name: NexusClan
+author: Drakiz
+version: 1.0.0
+main: me.dkz.dev.nexusclan.Main
+commands:
+  nexus:
+  chunks:
+    aliases:
+      - mapa
+  claimar:
+    aliases:
+      - dominar
+  clan:
+    aliases:
+      - cla
+  nexusclear:
+load: STARTUP
